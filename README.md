@@ -10,8 +10,8 @@ kadirkalkan@github:~$ ./welcome.sh
 CATching bugs in code...
                               
        \`*-.    [me]                    
-        )  _`-.          Welcome to my profile...
-       .  : `. .               
+        )  _`-.        Hi! I'm Kadir KALKAN and this is my profile...
+       .  : `. .              
        : _   '  \           If you think 
        ; *` _.   `*-._         you can find any bug in my codes  
        `-.-'          `-.          Sorry I CATched them before you :)
@@ -37,7 +37,7 @@ kadirkalkan@github
 🏴‍☠️ Currently involved in Trainings as a Trainer
 🚩 Interested in Software and System Architecture
 💖 In a complicated relationship with Angular2+
-🖌️ Love playing video games and playing guitar, researching about science and traveling.
+🖌️ Love playing video games, playing guitar, researching about science and traveling.
 🎵 Love rock, rap and 
 ⚡ Love brainstorming 🧠🤔🤔🤯😂
 ```
